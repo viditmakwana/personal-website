@@ -15,7 +15,7 @@ function App() {
     return (
         <div className='container'>
             <Particles options={particlesOptions} init={particlesInit} />
-            <div id="header" className="container p-4 pb-10">
+            <div id="header" className="container p-4">
                 <img src={logo} className="App-logo" alt="logo" />
             </div>
             <div id="body" style={{ display: "table" }}>
