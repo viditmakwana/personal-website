@@ -2,7 +2,7 @@ import React, { useCallback } from 'react';
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
 import Pdf from './files/Vidit_Makwana_Resume.pdf'
-import logo from './images/logo.png';
+import logo from './images/logo.jpg';
 import headshot from './images/pic.jpeg';
 import './App.css';
 import particlesOptions from "./particles.json";
