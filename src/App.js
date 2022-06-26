@@ -89,7 +89,7 @@ function App() {
                                         href="https://ktpumd.com/" target="_blank" rel="noreferrer noopener"> Kappa Theta Pi </a>, the world's first co-educational professional technology fraternity. 
                                 I am pursuing software engineering and data science new grad positions.
                                 In the past, I had been a mentor and volunteer for <a span class="responsive" href="https://gotechnica.org/" target="_blank" rel="noreferrer noopener">Technica</a>, the world's largest
-                                hackathon for underrepresented genders. This summer, I am working as a Software Engineering Intern at &nbsp;
+                                hackathon for underrepresented genders. <br/><br/>This summer, I am working as a Software Engineering Intern at&nbsp;
                                 <a span class="responsive" href="https://www.wework.com/" target="_blank" rel="noreferrer noopener">WeWork</a> in New York City!
                                 Next semester, I will be studying Human-Computer Interactions and Compilers. I am also mentoring students in
                                 Relational Databases in PostgreSQL as a Teaching Assistant. I love to play and watch
