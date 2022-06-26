@@ -19,7 +19,7 @@ function App() {
                 <img src={logo} className="App-logo" alt="logo" />
             </div>
             <div id="body" style={{ display: "table" }}>
-                <div className="container grid grid-cols-5 md:grid-cols-7 gap-10 place-items-center">
+                <div className="container grid grid-cols-5 md:grid-cols-8 gap-10 place-items-center">
                     <div></div>
                     <div></div>
                     <div className='text-white font-mono'>
@@ -78,7 +78,7 @@ function App() {
                         </div>
                     </div>
                     <div></div>
-                    <div className='container text-white text-md md:text-lg font-mono col-span-5 md:col-span-3 place-items-start'>
+                    <div className='container text-white text-md md:text-lg font-mono col-span-5 md:col-span-4 place-items-start'>
                         <div className='container p-6'>
                             <p className='overflow-hidden text-justify'>
                                 My name is Vidit Makwana and I am an incoming senior at the University of Maryland. I am a recipient of
