@@ -33,7 +33,7 @@ function App() {
                                 <div className='container flex flex-row pt-4' style={{ justifyContent: "space-around" }}>
 
                                     {/* Icons */}
-                                    <svg class="h-6 w-6 text-white" viewBox="0 0 24 24" fill="white" stroke="currentColor"
+                                    <svg class="h-6 w-6 text-white" viewBox="0 0 24 24" fill="transparent" stroke="currentColor"
                                         stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                         <a href="https://www.linkedin.com/in/viditmakwana/" target="_blank" rel="noreferrer noopener">
                                             <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z" />
@@ -42,7 +42,7 @@ function App() {
                                         </a>
                                     </svg>
 
-                                    <svg class="h-6 w-6 text-white" viewBox="0 0 24 24" fill="white" stroke="currentColor"
+                                    <svg class="h-6 w-6 text-white" viewBox="0 0 24 24" fill="transparent" stroke="currentColor"
                                         stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                         <a href="https://www.facebook.com/profile.php?id=100010709585961" target="_blank" rel="noreferrer noopener">
                                             <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z" />
@@ -66,7 +66,7 @@ function App() {
                                         </a>
                                     </svg>
 
-                                    <svg class="h-6 w-6 text-white" viewBox="0 0 24 24" fill="white" stroke="currentColor"
+                                    <svg class="h-6 w-6 text-white" viewBox="0 0 24 24" fill="transparent" stroke="currentColor"
                                         stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                         <a href="https://www.github.com/viditmakwana" target="_blank" rel="noreferrer noopener">
                                             <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 
