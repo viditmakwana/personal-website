@@ -20,7 +20,7 @@ function App() {
                 <img src={logo} className="App-logo" alt="logo" />
             </div>
             <div id="body" style={{ display: "table" }}>
-                <div className="container grid grid-cols-5 md:grid-cols-8 gap-10 place-items-center">
+                <div className="container grid grid-cols-5 md:grid-cols-5 lg:grid-cols-8 gap-10 place-items-center">
                     <Fade top cascade>
                         <div></div>
                         <div></div>
@@ -33,7 +33,7 @@ function App() {
                                 <div className='container flex flex-row pt-4' style={{ justifyContent: "space-around" }}>
 
                                     {/* Icons */}
-                                    <svg class="h-6 w-6 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    <svg class="h-6 w-6 text-white" viewBox="0 0 24 24" fill="white" stroke="currentColor"
                                         stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                         <a href="https://www.linkedin.com/in/viditmakwana/" target="_blank" rel="noreferrer noopener">
                                             <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z" />
@@ -42,21 +42,21 @@ function App() {
                                         </a>
                                     </svg>
 
-                                    <svg class="h-6 w-6 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    <svg class="h-6 w-6 text-white" viewBox="0 0 24 24" fill="white" stroke="currentColor"
                                         stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                         <a href="https://www.facebook.com/profile.php?id=100010709585961" target="_blank" rel="noreferrer noopener">
                                             <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z" />
                                         </a>
                                     </svg>
 
-                                    <svg class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <svg class="h-6 w-6 text-white" fill="white" viewBox="0 0 24 24" stroke="currentColor">
                                         <a href={Pdf} target="_blank" rel="noreferrer noopener">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z" />
                                         </a>
                                     </svg>
 
                                     <svg class="h-6 w-6 text-white" width="24" height="24" viewBox="0 0 24 24"
-                                        stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round"
+                                        stroke-width="2" stroke="currentColor" fill="transparent" stroke-linecap="round"
                                         stroke-linejoin="round">
                                         <a href="mailto:viditmakwana@gmail.com">
                                             <path stroke="none" d="M0 0h24v24H0z" />
@@ -66,7 +66,7 @@ function App() {
                                         </a>
                                     </svg>
 
-                                    <svg class="h-6 w-6 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    <svg class="h-6 w-6 text-white" viewBox="0 0 24 24" fill="white" stroke="currentColor"
                                         stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                         <a href="https://www.github.com/viditmakwana" target="_blank" rel="noreferrer noopener">
                                             <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 
@@ -80,12 +80,12 @@ function App() {
                             </div>
                         </div>
                         <div></div>
-                        <div className='container text-white text-md md:text-lg font-mono col-span-5 md:col-span-4 place-items-start'>
+                        <div className='container text-white text-md md:text-lg font-mono col-span-5 md:col-start-1 md:col-span-6 lg:col-span-4 place-items-start'>
                             <div className='container p-6'>
                                 <p className='overflow-hidden'>
                                     Welcome! My name is Vidit and I'm an incoming senior at the University of Maryland. Besides receiving
                                     the Presidential Scholarship and maintaining my <a span class="responsive"
-                                        href="https://cmns.umd.edu/news-events/features/4529" target="_blank" rel="noreferrer noopener">
+                                        href="https://cmns.umd.edu/news-events/features/4901" target="_blank" rel="noreferrer noopener">
                                         Dean's List</a> status, I was recently inducted into the <a span class="responsive" href="https://mortarboard.org/about/" target="_blank" rel="noreferrer noopener">Mortar Board Honor Society</a>.
                                         Additionally, I serve as the Director of Professional Development for the world's first co-educational professional technology fraternity,<a span class="responsive"
                                             href="https://ktpumd.com/" target="_blank" rel="noreferrer noopener"> Kappa Theta Pi </a>. 
