@@ -81,23 +81,23 @@ function App() {
                         </div>
                         <div></div>
                         <div className='container text-white text-md md:text-lg font-mono col-span-5 md:col-start-1 md:col-span-6 lg:col-span-4 place-items-start'>
-                            <div className='container p-6'>
+                            <div className='container'>
                                 <p className='overflow-hidden'>
-                                    Welcome! My name is Vidit and I'm an incoming senior at the University of Maryland. Besides receiving
-                                    the Presidential Scholarship and maintaining my <a span class="responsive"
+                                    Hi there! My name is Vidit and I'm a senior at the University of Maryland. I am honored to have received
+                                    the Presidential Scholarship and to have consistently made the <a span class="responsive"
                                         href="https://cmns.umd.edu/news-events/features/4901" target="_blank" rel="noreferrer noopener">
-                                        Dean's List</a> status, I was recently inducted into the <a span class="responsive" href="https://mortarboard.org/about/" target="_blank" rel="noreferrer noopener">Mortar Board Honor Society</a>.
-                                        Additionally, I serve as the Director of Professional Development for the world's first co-educational professional technology fraternity,<a span class="responsive"
-                                            href="https://ktpumd.com/" target="_blank" rel="noreferrer noopener"> Kappa Theta Pi </a>. 
-                                    My new grad job search is focused on data science and software engineering positions that allow me to gain a deeper understanding of the vast amount of data around me.
-                                    As a mentor and volunteer, I've previously participated in <a span class="responsive" href="https://gotechnica.org/" target="_blank" rel="noreferrer noopener">Technica</a>, the largest
+                                        Dean's List</a>. I am also very proud to have been recently inducted into the <a span class="responsive" href="https://mortarboard.org/about/" target="_blank" rel="noreferrer noopener">Mortar Board Honor Society</a>.
+                                        In my role as the Director of Professional Development for <a span class="responsive" href="https://ktpumd.com/" target="_blank" rel="noreferrer noopener"> Kappa Theta Pi</a>, the world's first co-educational professional technology fraternity,
+                                        I have the opportunity to help other students develop their professional skills. 
+                                    My career goals are focused on data science and software engineering, and I'm always looking for ways to deepen my understanding of data.
+                                    As a mentor and volunteer, I've had the chance to participate in <a span class="responsive" href="https://gotechnica.org/" target="_blank" rel="noreferrer noopener">Technica</a>, the largest
                                     hackathon for underrepresented genders in the world. 
                                     <br/><br/>
-                                    The summer so far has been an exciting experience working as a Software Engineering Intern at&nbsp;
+                                    This past summer, I was fortunuate enough to be a Software Engineering Intern at&nbsp;
                                     <a span class="responsive" href="https://www.wework.com/" target="_blank" rel="noreferrer noopener">WeWork</a> in New York City!
-                                    During my free time, I enjoy playing and watching
-                                    basketball, football, and tennis and traveling with friends. I'm always willing to watch an
-                                    episode of <a span class="responsive" href="https://www.peacocktv.com/stream-tv/the-office" target="_blank" rel="noreferrer noopener">The Office</a> and currently, I am 
+                                    During my free time, I enjoy staying active by playing and watching
+                                    basketball, football, and tennis. I also love to travel and explore new places with friends. When I'm not busy, you can find me watching an
+                                    episode of <a span class="responsive" href="https://www.peacocktv.com/stream-tv/the-office" target="_blank" rel="noreferrer noopener">The Office</a> or
                                     catching up with <a span class="responsive" href="https://www.imdb.com/title/tt1190634/" target="_blank" rel="noreferrer noopener">The Boys</a>! I am always looking for opportunities to learn
                                     and contribute to projects, so feel free to contact me if you have any ideas!
                                 </p>
